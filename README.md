@@ -1,146 +1,231 @@
-# 🌾 AzueroMarket v2.0 — Guía de Setup
+AzueroMarket v2
 
-## Qué hay en esta versión
+AzueroMarket is an Android marketplace application designed to connect local entrepreneurs with customers through a digital platform.
 
-| Módulo | Descripción |
-|---|---|
-| **Login / Registro** | Toggle Cliente ↔ Emprendedor, validaciones completas |
-| **Home Cliente** | Catálogo en grid, filtros por categoría, badge carrito en nav |
-| **Detalle de Producto** | Stock en tiempo real, cargos desglosados, productos relacionados del mismo productor |
-| **Carrito** | Control de cantidad, ITBMS 7% + cargo servicio 5% al cliente, confirmación de pedido |
-| **Chat** | Lista de conversaciones, mensajes burbuja izq/der, contexto del producto consultado |
-| **Home Emprendedor** | Stats (productos, ventas), gestión de productos con stock, nav a mensajes |
-| **Modelo de negocio** | El productor recibe el 100% del precio. Los cargos (5% + ITBMS 7%) los paga el cliente |
+The application provides separate experiences for customers and entrepreneurs, allowing customers to browse products, manage a shopping cart, place orders, and communicate with product owners. Entrepreneurs can manage their products, monitor sales information, manage stock, and respond to customer inquiries.
 
----
+The project was developed as part of my university studies, focusing on Android application development, user interface design, application state management, database integration, and client-side marketplace functionality.
 
-## 1. Abrir el proyecto en Android Studio
+OVERVIEW
 
-1. Descomprime `AzueroMarket_v2.zip`
-2. **File → Open** → selecciona la carpeta `AzueroMarket_v2`
-3. Espera que Gradle sincronice (puede tardar 2-3 min la primera vez)
-4. Ejecuta ▶️ en un emulador API 24+
+AzueroMarket is designed as a digital marketplace for local entrepreneurs.
 
-**Cuentas de prueba:**
-```
-Emprendedor:  emprendedor@test.com  /  123456
-Cliente:      cliente@test.com      /  123456
-```
+The application has two main user roles:
 
----
+Customer
 
-## 2. Conectar Supabase (base de datos real)
+Customers can browse available products, view product details and stock, add products to their cart, confirm orders, and communicate with entrepreneurs through the messaging system.
 
-### Paso 1: Crear cuenta y proyecto
-1. Ve a [supabase.com](https://supabase.com) → **Start your project** (gratis)
-2. Crea un nuevo proyecto (elige región US East para menos latencia desde Panamá)
-3. Guarda la contraseña de la base de datos
+Entrepreneur
 
-### Paso 2: Crear las tablas
-1. En el dashboard de Supabase → **SQL Editor** → **New Query**
-2. Copia y pega todo el contenido de `SUPABASE_SETUP.sql`
-3. Haz clic en **Run**
+Entrepreneurs can manage their products and stock, view basic sales information, and respond to customer messages.
 
-### Paso 3: Obtener las credenciales
-1. **Project Settings** → **API**
-2. Copia:
-   - **Project URL**: `https://xxxx.supabase.co`
-   - **anon / public key**: la clave larga
+FEATURES
 
-### Paso 4: Pegar credenciales en la app
-Abre `AzueroMarketApp.kt` y reemplaza:
-```kotlin
-const val SUPABASE_URL   = "https://TU_PROYECTO.supabase.co"
-const val SUPABASE_ANON_KEY = "TU_ANON_KEY"
-```
+Customer
 
-### Paso 5: Habilitar Realtime (para chat en vivo)
-1. Supabase Dashboard → **Database** → **Replication**
-2. En "Supabase Realtime" activa las tablas: `mensajes`, `conversaciones`, `pedidos`
+* User registration and login
+* Product catalog
+* Product categories
+* Product filtering
+* Product details
+* Real-time stock display
+* Related products from the same entrepreneur
+* Shopping cart
+* Quantity management
+* Order confirmation
+* Product-related conversations
+* Conversation list
+* Customer-to-entrepreneur messaging
 
----
+Entrepreneur
 
-## 3. Arquitectura de cargos (modelo de negocio)
+* Entrepreneur login
+* Product management
+* Product stock management
+* Sales statistics
+* Add product functionality
+* Customer message management
+* Product-related conversations
 
-```
-Precio del producto:    $ 10.00   ← el productor recibe ESTO
-+ Cargo de servicio 5%: $  0.50   ← AzueroMarket
-+ ITBMS 7%:             $  0.73   ← obligatorio por ley (aplica a subtotal + cargo)
-─────────────────────────────────
-Total que paga cliente: $ 11.23
-```
+ORDER AND PRICING
 
-Los valores están en `AzueroMarketApp.kt`:
-```kotlin
-const val CARGO_SERVICIO_PORCENT = 0.05   // Cambiar según negocio
-const val ITBMS_PORCENT          = 0.07   // No cambiar (ley panameña)
-```
+The application includes a service charge and ITBMS calculation during the checkout process.
 
----
+The current model uses:
 
-## 4. Flujo completo del usuario
+* Product price
+* 5% service charge
+* 7% ITBMS
 
-### Cliente
-```
-Login → Home (catálogo) → Detalle Producto
-           ├── Stock disponible → Agregar Carrito → Confirmar Pedido
-           └── Sin stock        → Chat con productor
-Mensajes → Lista conversaciones → Chat individual
-```
+The product price is treated separately from the service charge, with the service charge and applicable tax added to the customer's total.
 
-### Emprendedor
-```
-Login → Mi Tienda (lista productos) → Agregar Producto (con stock)
-Mensajes → Ver consultas de clientes → Responder
-```
+TECHNOLOGIES
 
----
+Mobile Application
 
-## 5. Próximos pasos sugeridos
+* Kotlin
+* Android Studio
+* Android SDK
+* XML
+* Gradle
 
-| Prioridad | Feature | Complejidad |
-|---|---|---|
-| 🔴 Alta | Reemplazar MockDataSource con llamadas Supabase reales | Media |
-| 🔴 Alta | Chat en tiempo real con Supabase Realtime | Media |
-| 🟡 Media | Subida de fotos de productos (Supabase Storage) | Media |
-| 🟡 Media | Notificaciones push (Firebase FCM) cuando llega un pedido | Alta |
-| 🟡 Media | Historial de pedidos para cliente y emprendedor | Baja |
-| 🟢 Baja | Búsqueda de texto libre en productos | Baja |
-| 🟢 Baja | Calificaciones y reseñas de productos | Media |
-| 🟢 Baja | Integración Yappy/PayPal para pagos | Alta |
+Database and Backend
 
----
+* Supabase
+* SQL
+* Supabase Realtime
 
-## 6. Estructura del proyecto
+Local Application Components
 
-```
+* SharedPreferences
+* Local mock data source
+* In-memory cart management
+
+APPLICATION ARCHITECTURE
+
+The application is organized into several layers for models, utilities, and user interface components.
+
+A simplified structure is:
+
+AzueroMarket
+|
+├── Models
+|
+├── Utilities
+|   ├── Session Management
+|   ├── Mock Data Source
+|   └── Cart Management
+|
+└── UI
+├── Login
+├── Registration
+├── Customer Home
+├── Entrepreneur Home
+├── Product Details
+├── Shopping Cart
+├── Chat
+├── Customer
+└── Entrepreneur
+
+PROJECT STRUCTURE
+
 app/src/main/java/com/azueromarket/
-├── AzueroMarketApp.kt          ← Config Supabase + tasas
+
+├── AzueroMarketApp.kt
 ├── model/
-│   └── Models.kt               ← Todos los data class
+│   └── Models.kt
 ├── utils/
-│   ├── SessionManager.kt       ← SharedPreferences sesión
-│   ├── MockDataSource.kt       ← Datos locales (reemplazar con Supabase)
-│   └── CarritoManager.kt       ← Estado del carrito en memoria
+│   ├── SessionManager.kt
+│   ├── MockDataSource.kt
+│   └── CarritoManager.kt
 └── ui/
-    ├── login/LoginActivity.kt
-    ├── register/RegisterActivity.kt
-    ├── home/
-    │   ├── HomeClienteActivity.kt
-    │   └── HomeEmprendedorActivity.kt
-    ├── producto/DetalleProductoActivity.kt
-    ├── carrito/
-    │   ├── CarritoActivity.kt
-    │   └── CarritoAdapter.kt
-    ├── chat/
-    │   ├── ChatActivity.kt
-    │   ├── ChatAdapter.kt
-    │   ├── ConversacionesActivity.kt
-    │   └── ConversacionAdapter.kt
-    ├── cliente/
-    │   ├── ProductoClienteAdapter.kt
-    │   └── ProductoRelacionadoAdapter.kt
-    └── emprendedor/
-        ├── ProductoEmprendedorAdapter.kt
-        └── AgregarProductoDialog.kt
-```
+├── login/
+├── register/
+├── home/
+├── producto/
+├── carrito/
+├── chat/
+├── cliente/
+└── emprendedor/
+
+USER FLOW
+
+Customer
+
+Login
+|
+v
+Home
+|
+v
+Product Catalog
+|
+v
+Product Details
+|
+├── Available Stock → Add to Cart → Confirm Order
+|
+└── No Stock → Contact Entrepreneur
+
+Messages
+|
+v
+Conversations
+|
+v
+Chat
+
+Entrepreneur
+
+Login
+|
+v
+My Store
+|
+v
+Product Management
+|
+v
+Stock Management
+
+Messages
+|
+v
+Customer Conversations
+|
+v
+Reply to Customer
+
+DATABASE
+
+The project includes a Supabase database setup script through SUPABASE_SETUP.sql.
+
+The database structure is designed to support functionality such as:
+
+* Users
+* Products
+* Orders
+* Conversations
+* Messages
+
+Supabase Realtime is also prepared for communication features involving messages, conversations, and orders.
+
+CURRENT DEVELOPMENT STATUS
+
+The application currently uses a local mock data source for part of its functionality while the Supabase integration is being developed.
+
+The project structure is prepared for replacing local mock data with real Supabase queries and expanding the application's real-time functionality.
+
+FUTURE IMPROVEMENTS
+
+Planned improvements include:
+
+* Complete integration with Supabase data operations
+* Real-time chat using Supabase Realtime
+* Product image uploads using Supabase Storage
+* Push notifications using Firebase Cloud Messaging
+* Customer and entrepreneur order history
+* Product search
+* Product ratings and reviews
+* Online payment integration
+
+PROJECT GOALS
+
+This project was developed to gain practical experience in:
+
+* Android application development with Kotlin
+* Mobile user interface development
+* Role-based application flows
+* State management
+* Shopping cart implementation
+* Database integration
+* Authentication and session management
+* Real-time communication
+* Git and GitHub version control
+
+AUTHOR
+
+Hilary Rodríguez
+
+Software Development Student
