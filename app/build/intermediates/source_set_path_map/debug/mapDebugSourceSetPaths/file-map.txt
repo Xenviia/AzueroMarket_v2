@@ -1,0 +1,42 @@
+com.azueromarket.app-jetified-viewpager2-1.1.0-beta02-0 C:\Users\hila-\.gradle\caches\8.13\transforms\0236bdba3f98f03e7676065a703bf2ad\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.azueromarket.app-jetified-annotation-experimental-1.3.0-1 C:\Users\hila-\.gradle\caches\8.13\transforms\05612f9f30853050cddc811eade984a9\transformed\jetified-annotation-experimental-1.3.0\res
+com.azueromarket.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-2 C:\Users\hila-\.gradle\caches\8.13\transforms\1300e95b0cea2b0147577fe01381931e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.azueromarket.app-browser-1.7.0-3 C:\Users\hila-\.gradle\caches\8.13\transforms\181ecd35ed04664b00eebf1b682b1c36\transformed\browser-1.7.0\res
+com.azueromarket.app-constraintlayout-2.1.4-4 C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\res
+com.azueromarket.app-jetified-emoji2-1.2.0-5 C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\res
+com.azueromarket.app-lifecycle-livedata-2.7.0-6 C:\Users\hila-\.gradle\caches\8.13\transforms\278f76c4d7c58d8386cd852a4fb01498\transformed\lifecycle-livedata-2.7.0\res
+com.azueromarket.app-jetified-core-ktx-1.12.0-7 C:\Users\hila-\.gradle\caches\8.13\transforms\36afe50c35ea2a472fa11d2fb15dcbd3\transformed\jetified-core-ktx-1.12.0\res
+com.azueromarket.app-drawerlayout-1.1.1-8 C:\Users\hila-\.gradle\caches\8.13\transforms\38dbf7b9f3e19635f68f9786de191339\transformed\drawerlayout-1.1.1\res
+com.azueromarket.app-jetified-activity-1.8.0-9 C:\Users\hila-\.gradle\caches\8.13\transforms\421768444032ea435d50a63d3e67eb38\transformed\jetified-activity-1.8.0\res
+com.azueromarket.app-jetified-lifecycle-runtime-ktx-2.7.0-10 C:\Users\hila-\.gradle\caches\8.13\transforms\5d368ab065215a9952dd87179aca949b\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.azueromarket.app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 C:\Users\hila-\.gradle\caches\8.13\transforms\634b227dffd2f7d6dd2ca31886192785\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.azueromarket.app-material-1.11.0-12 C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\res
+com.azueromarket.app-jetified-startup-runtime-1.1.1-13 C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\res
+com.azueromarket.app-core-runtime-2.2.0-14 C:\Users\hila-\.gradle\caches\8.13\transforms\6b680ffd58b7f26cd64ec17253d65ebc\transformed\core-runtime-2.2.0\res
+com.azueromarket.app-jetified-lifecycle-livedata-ktx-2.7.0-15 C:\Users\hila-\.gradle\caches\8.13\transforms\7415a1b55e12a847d652d2a7df2644e2\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res
+com.azueromarket.app-recyclerview-1.3.2-16 C:\Users\hila-\.gradle\caches\8.13\transforms\7a6793d8d5f136e6afc896dc698ccdb3\transformed\recyclerview-1.3.2\res
+com.azueromarket.app-appcompat-1.6.1-17 C:\Users\hila-\.gradle\caches\8.13\transforms\7c561c98095baa5c6574b957349839cb\transformed\appcompat-1.6.1\res
+com.azueromarket.app-core-1.12.0-18 C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\res
+com.azueromarket.app-transition-1.2.0-19 C:\Users\hila-\.gradle\caches\8.13\transforms\872765594b67d4b44218dac1e430f83b\transformed\transition-1.2.0\res
+com.azueromarket.app-jetified-savedstate-1.2.1-20 C:\Users\hila-\.gradle\caches\8.13\transforms\8d1f9af01b2278a1a32d81a8eb6620a1\transformed\jetified-savedstate-1.2.1\res
+com.azueromarket.app-jetified-appcompat-resources-1.6.1-21 C:\Users\hila-\.gradle\caches\8.13\transforms\91eb2b1c5be1ac147c4aacbded790a3c\transformed\jetified-appcompat-resources-1.6.1\res
+com.azueromarket.app-jetified-lifecycle-viewmodel-ktx-2.7.0-22 C:\Users\hila-\.gradle\caches\8.13\transforms\936ff3c8ee7847f8227b19701640fd7c\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.azueromarket.app-jetified-lifecycle-process-2.7.0-23 C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\res
+com.azueromarket.app-coordinatorlayout-1.1.0-24 C:\Users\hila-\.gradle\caches\8.13\transforms\9b1a2df7d0f7080bfefa86049f86ab8f\transformed\coordinatorlayout-1.1.0\res
+com.azueromarket.app-lifecycle-livedata-core-2.7.0-25 C:\Users\hila-\.gradle\caches\8.13\transforms\a30432df2709ce82c1ae9d2f3a3447c0\transformed\lifecycle-livedata-core-2.7.0\res
+com.azueromarket.app-jetified-customview-poolingcontainer-1.0.0-26 C:\Users\hila-\.gradle\caches\8.13\transforms\a4455f4b3d1dc36b1908b862de00bb17\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.azueromarket.app-fragment-1.3.6-27 C:\Users\hila-\.gradle\caches\8.13\transforms\a6c857399e6deaeb94838be3ad92d138\transformed\fragment-1.3.6\res
+com.azueromarket.app-cardview-1.0.0-28 C:\Users\hila-\.gradle\caches\8.13\transforms\ae99abe769f971b3a5cec0f3abdbe639\transformed\cardview-1.0.0\res
+com.azueromarket.app-lifecycle-viewmodel-2.7.0-29 C:\Users\hila-\.gradle\caches\8.13\transforms\b095ecbc721cf05da8839e51f115fba0\transformed\lifecycle-viewmodel-2.7.0\res
+com.azueromarket.app-jetified-emoji2-views-helper-1.2.0-30 C:\Users\hila-\.gradle\caches\8.13\transforms\b5a525cd7d7a5e2c62a128a21a568352\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.azueromarket.app-jetified-profileinstaller-1.3.0-31 C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\res
+com.azueromarket.app-lifecycle-runtime-2.7.0-32 C:\Users\hila-\.gradle\caches\8.13\transforms\ded9b13e92120a193c628fe3e1871f4a\transformed\lifecycle-runtime-2.7.0\res
+com.azueromarket.app-jetified-glide-4.16.0-33 C:\Users\hila-\.gradle\caches\8.13\transforms\f4d9db6eb1e831bb5814606f748d3959\transformed\jetified-glide-4.16.0\res
+com.azueromarket.app-pngs-34 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\generated\res\pngs\debug
+com.azueromarket.app-resValues-35 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\generated\res\resValues\debug
+com.azueromarket.app-updated_navigation_xml-36 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\generated\updated_navigation_xml\debug
+com.azueromarket.app-packageDebugResources-37 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.azueromarket.app-packageDebugResources-38 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.azueromarket.app-debug-39 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.azueromarket.app-debug-40 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\debug\res
+com.azueromarket.app-main-41 C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\res

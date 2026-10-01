@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_producto_cliente.xml -->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="3dp"
+    android:layout_margin="6dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View android:layout_width="match_parent" android:layout_height="4dp" android:background="@color/primary_green"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/accent_light">
+            <TextView
+                android:id="@+id/tvEmoji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="🌾"
+                android:textSize="36sp"/>
+            <TextView
+                android:id="@+id/tvStockBadge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|end"
+                android:layout_margin="6dp"
+                android:text="Disponible"
+                android:textSize="9sp"
+                android:textColor="@android:color/white"
+                android:paddingHorizontal="6dp"
+                android:paddingVertical="2dp"
+                android:background="@drawable/bg_badge_verde"/>
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tvNombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nombre"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:textColor="@color/text_primary"
+                android:maxLines="2"
+                android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/tvPrecio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$ 0.00"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/accent_orange"
+                android:layout_marginTop="4dp"/>
+
+            <TextView
+                android:id="@+id/tvEmprendedor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="por Emprendedor"
+                android:textSize="11sp"
+                android:textColor="@color/text_secondary"
+                android:layout_marginTop="2dp"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/tvUbicacion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="📍 Azuero"
+                android:textSize="11sp"
+                android:textColor="@color/text_secondary"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/tvCategoria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cat"
+                android:textSize="10sp"
+                app:chipMinHeight="22dp"
+                app:chipBackgroundColor="@color/chip_green_bg"
+                android:textColor="@color/primary_green"
+                android:layout_marginTop="4dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

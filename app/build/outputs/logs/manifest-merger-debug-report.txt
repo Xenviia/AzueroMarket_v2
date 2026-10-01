@@ -1,0 +1,445 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\hila-\.gradle\caches\8.13\transforms\26e1f5481b5e0cecf0a8c34e41a2e52d\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\91eb2b1c5be1ac147c4aacbded790a3c\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\7c561c98095baa5c6574b957349839cb\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\hila-\.gradle\caches\8.13\transforms\0236bdba3f98f03e7676065a703bf2ad\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\hila-\.gradle\caches\8.13\transforms\7a6793d8d5f136e6afc896dc698ccdb3\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b5a525cd7d7a5e2c62a128a21a568352\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\f4d9db6eb1e831bb5814606f748d3959\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\a6c857399e6deaeb94838be3ad92d138\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hila-\.gradle\caches\8.13\transforms\421768444032ea435d50a63d3e67eb38\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\38dbf7b9f3e19635f68f9786de191339\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\9b1a2df7d0f7080bfefa86049f86ab8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6eed3bc671c5da923202edc5d1ec4e82\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\872765594b67d4b44218dac1e430f83b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b8e15abc14ed1987bea46be522356dbb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a241860f0569ff9b176de83ea1df0e6a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\86656c23586ce36fd9aa3573b68e9cf9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2049bc513f700a8efa63870c64c4821b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\d57626e6a6311b4a5754aea0fee0232b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\899f1ec005fbbe835e489fc696b1b760\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\50b2f923f93d62f5143148317a3c75f1\transformed\jetified-realtime-kt-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\7865ddef937022fe5571969a99bdc800\transformed\jetified-postgrest-kt-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:2:1-20:12
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.browser:browser:1.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\181ecd35ed04664b00eebf1b682b1c36\transformed\browser-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a4455f4b3d1dc36b1908b862de00bb17\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d1f9af01b2278a1a32d81a8eb6620a1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a30432df2709ce82c1ae9d2f3a3447c0\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\8fa0fb37d7066ba091f8466659f249d7\transformed\jetified-supabase-kt-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\634b227dffd2f7d6dd2ca31886192785\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\278f76c4d7c58d8386cd852a4fb01498\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ded9b13e92120a193c628fe3e1871f4a\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b095ecbc721cf05da8839e51f115fba0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\7415a1b55e12a847d652d2a7df2644e2\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\936ff3c8ee7847f8227b19701640fd7c\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5d368ab065215a9952dd87179aca949b\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\1300e95b0cea2b0147577fe01381931e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\36afe50c35ea2a472fa11d2fb15dcbd3\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\hila-\.gradle\caches\8.13\transforms\32d7b69258d7fc747e9a0d82421feeca\transformed\jetified-krypto-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\05612f9f30853050cddc811eade984a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ae99abe769f971b3a5cec0f3abdbe639\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b7ef980d300954df9b255bbb3e5d24fa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\809a0945155c0f30200089dede8ecd6f\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\52ef789e05d511664c453fe05201dd26\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5a3bd251133faac2f0e4000773a74efb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b99eddd6fa6bfb309e42900f44b7a0d0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\0a3082fe12c139c126e4d180d25a9b82\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6b680ffd58b7f26cd64ec17253d65ebc\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62da01cc31dc7968f8cb92669af4a60d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62c07299c69bec281fa3b787afe12289\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b3b602ba882659c9e4c1dd90489e6ebc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d70936fdf3a41c069de3e7d627e2846\transformed\jetified-multiplatform-settings-coroutines-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\3d187d2df0c66f2990b0be3ae02542d7\transformed\jetified-multiplatform-settings-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\3f741b68ea7beb220f130934f2275375\transformed\jetified-kermit-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\1258345aed16dac4f6762a8a5972bf01\transformed\jetified-kermit-core-debug\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:5:5-106
+	android:maxSdkVersion
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:5:78-104
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:6:22-73
+application
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:8:5-58:19
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:8:5-58:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\0a3082fe12c139c126e4d180d25a9b82\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\0a3082fe12c139c126e4d180d25a9b82\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:14:9-50
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.azueromarket.ui.login.LoginActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:18:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.azueromarket.ui.register.RegisterActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:27:9-30:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:30:13-55
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:28:13-57
+activity#com.azueromarket.ui.home.HomeEmprendedorActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:33:13-60
+activity#com.azueromarket.ui.home.HomeClienteActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:37:13-56
+activity#com.azueromarket.ui.producto.DetalleProductoActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:40:9-43:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:43:13-55
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:41:13-64
+activity#com.azueromarket.ui.carrito.CarritoActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:46:13-55
+activity#com.azueromarket.ui.chat.ChatActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:49:9-52:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:50:13-49
+activity#com.azueromarket.ui.chat.ConversacionesActivity
+ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml:55:13-59
+uses-sdk
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\hila-\.gradle\caches\8.13\transforms\26e1f5481b5e0cecf0a8c34e41a2e52d\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\hila-\.gradle\caches\8.13\transforms\26e1f5481b5e0cecf0a8c34e41a2e52d\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\hila-\.gradle\caches\8.13\transforms\678e295e930bc623b1b9c784661320da\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\188fb460fb711f1ddb1d368dc833cd55\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\91eb2b1c5be1ac147c4aacbded790a3c\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\91eb2b1c5be1ac147c4aacbded790a3c\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\7c561c98095baa5c6574b957349839cb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hila-\.gradle\caches\8.13\transforms\7c561c98095baa5c6574b957349839cb\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\hila-\.gradle\caches\8.13\transforms\0236bdba3f98f03e7676065a703bf2ad\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\hila-\.gradle\caches\8.13\transforms\0236bdba3f98f03e7676065a703bf2ad\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\hila-\.gradle\caches\8.13\transforms\7a6793d8d5f136e6afc896dc698ccdb3\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\hila-\.gradle\caches\8.13\transforms\7a6793d8d5f136e6afc896dc698ccdb3\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b5a525cd7d7a5e2c62a128a21a568352\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b5a525cd7d7a5e2c62a128a21a568352\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\f4d9db6eb1e831bb5814606f748d3959\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\f4d9db6eb1e831bb5814606f748d3959\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\a6c857399e6deaeb94838be3ad92d138\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\a6c857399e6deaeb94838be3ad92d138\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hila-\.gradle\caches\8.13\transforms\421768444032ea435d50a63d3e67eb38\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hila-\.gradle\caches\8.13\transforms\421768444032ea435d50a63d3e67eb38\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\38dbf7b9f3e19635f68f9786de191339\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\38dbf7b9f3e19635f68f9786de191339\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\9b1a2df7d0f7080bfefa86049f86ab8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\9b1a2df7d0f7080bfefa86049f86ab8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6eed3bc671c5da923202edc5d1ec4e82\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6eed3bc671c5da923202edc5d1ec4e82\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\872765594b67d4b44218dac1e430f83b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\872765594b67d4b44218dac1e430f83b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b8e15abc14ed1987bea46be522356dbb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b8e15abc14ed1987bea46be522356dbb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a241860f0569ff9b176de83ea1df0e6a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a241860f0569ff9b176de83ea1df0e6a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\86656c23586ce36fd9aa3573b68e9cf9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\86656c23586ce36fd9aa3573b68e9cf9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2049bc513f700a8efa63870c64c4821b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2049bc513f700a8efa63870c64c4821b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\d57626e6a6311b4a5754aea0fee0232b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\d57626e6a6311b4a5754aea0fee0232b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\899f1ec005fbbe835e489fc696b1b760\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hila-\.gradle\caches\8.13\transforms\899f1ec005fbbe835e489fc696b1b760\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\50b2f923f93d62f5143148317a3c75f1\transformed\jetified-realtime-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:realtime-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\50b2f923f93d62f5143148317a3c75f1\transformed\jetified-realtime-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\7865ddef937022fe5571969a99bdc800\transformed\jetified-postgrest-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\7865ddef937022fe5571969a99bdc800\transformed\jetified-postgrest-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [androidx.browser:browser:1.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\181ecd35ed04664b00eebf1b682b1c36\transformed\browser-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\181ecd35ed04664b00eebf1b682b1c36\transformed\browser-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a4455f4b3d1dc36b1908b862de00bb17\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a4455f4b3d1dc36b1908b862de00bb17\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d1f9af01b2278a1a32d81a8eb6620a1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d1f9af01b2278a1a32d81a8eb6620a1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a30432df2709ce82c1ae9d2f3a3447c0\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\a30432df2709ce82c1ae9d2f3a3447c0\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\8fa0fb37d7066ba091f8466659f249d7\transformed\jetified-supabase-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\8fa0fb37d7066ba091f8466659f249d7\transformed\jetified-supabase-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\634b227dffd2f7d6dd2ca31886192785\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\634b227dffd2f7d6dd2ca31886192785\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\278f76c4d7c58d8386cd852a4fb01498\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\278f76c4d7c58d8386cd852a4fb01498\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ded9b13e92120a193c628fe3e1871f4a\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ded9b13e92120a193c628fe3e1871f4a\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b095ecbc721cf05da8839e51f115fba0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b095ecbc721cf05da8839e51f115fba0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\7415a1b55e12a847d652d2a7df2644e2\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\7415a1b55e12a847d652d2a7df2644e2\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\936ff3c8ee7847f8227b19701640fd7c\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\936ff3c8ee7847f8227b19701640fd7c\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5d368ab065215a9952dd87179aca949b\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5d368ab065215a9952dd87179aca949b\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\1300e95b0cea2b0147577fe01381931e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\1300e95b0cea2b0147577fe01381931e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\36afe50c35ea2a472fa11d2fb15dcbd3\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\36afe50c35ea2a472fa11d2fb15dcbd3\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\hila-\.gradle\caches\8.13\transforms\32d7b69258d7fc747e9a0d82421feeca\transformed\jetified-krypto-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\hila-\.gradle\caches\8.13\transforms\32d7b69258d7fc747e9a0d82421feeca\transformed\jetified-krypto-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\05612f9f30853050cddc811eade984a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\05612f9f30853050cddc811eade984a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ae99abe769f971b3a5cec0f3abdbe639\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\ae99abe769f971b3a5cec0f3abdbe639\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b7ef980d300954df9b255bbb3e5d24fa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b7ef980d300954df9b255bbb3e5d24fa\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\809a0945155c0f30200089dede8ecd6f\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hila-\.gradle\caches\8.13\transforms\809a0945155c0f30200089dede8ecd6f\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\52ef789e05d511664c453fe05201dd26\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hila-\.gradle\caches\8.13\transforms\52ef789e05d511664c453fe05201dd26\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5a3bd251133faac2f0e4000773a74efb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\5a3bd251133faac2f0e4000773a74efb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b99eddd6fa6bfb309e42900f44b7a0d0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b99eddd6fa6bfb309e42900f44b7a0d0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\0a3082fe12c139c126e4d180d25a9b82\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\0a3082fe12c139c126e4d180d25a9b82\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6b680ffd58b7f26cd64ec17253d65ebc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\6b680ffd58b7f26cd64ec17253d65ebc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62da01cc31dc7968f8cb92669af4a60d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62da01cc31dc7968f8cb92669af4a60d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62c07299c69bec281fa3b787afe12289\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\62c07299c69bec281fa3b787afe12289\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b3b602ba882659c9e4c1dd90489e6ebc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hila-\.gradle\caches\8.13\transforms\b3b602ba882659c9e4c1dd90489e6ebc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d70936fdf3a41c069de3e7d627e2846\transformed\jetified-multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\8d70936fdf3a41c069de3e7d627e2846\transformed\jetified-multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\3d187d2df0c66f2990b0be3ae02542d7\transformed\jetified-multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\3d187d2df0c66f2990b0be3ae02542d7\transformed\jetified-multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\3f741b68ea7beb220f130934f2275375\transformed\jetified-kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\3f741b68ea7beb220f130934f2275375\transformed\jetified-kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\1258345aed16dac4f6762a8a5972bf01\transformed\jetified-kermit-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.3] C:\Users\hila-\.gradle\caches\8.13\transforms\1258345aed16dac4f6762a8a5972bf01\transformed\jetified-kermit-core-debug\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hila-\OneDrive\Escritorio\universidad\Ultimo semestre\Innovacion\AzueroMarket_v2\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\6a80150ed9bf25b2e6f1189cd6d4ccbe\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hila-\.gradle\caches\8.13\transforms\2609042575559719420fbedf477aaf50\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#io.github.jan.supabase.storage.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\e0ad9db383ecc47e3d867d174d9ae917\transformed\jetified-storage-kt-debug\AndroidManifest.xml:15:17-82
+meta-data#io.github.jan.supabase.gotrue.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.1.4] C:\Users\hila-\.gradle\caches\8.13\transforms\3e475a28304885da5ee7c179153975d0\transformed\jetified-gotrue-kt-debug\AndroidManifest.xml:15:17-81
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.azueromarket.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.azueromarket.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hila-\.gradle\caches\8.13\transforms\80b0d42e754494961395192b431bf958\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hila-\.gradle\caches\8.13\transforms\99b6eff93cf32acd059541957ae47356\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hila-\.gradle\caches\8.13\transforms\dc1eba522110db57bb13a8c8eaf24981\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+meta-data#com.russhwolf.settings.SettingsInitializer
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\hila-\.gradle\caches\8.13\transforms\c7914ac393ccb50c76577001ebe13754\transformed\jetified-multiplatform-settings-no-arg-debug\AndroidManifest.xml:30:17-74

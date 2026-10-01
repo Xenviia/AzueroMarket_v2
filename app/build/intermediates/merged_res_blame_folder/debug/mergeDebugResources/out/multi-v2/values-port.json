@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.azueromarket.app-mergeDebugResources-36:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hila-\\.gradle\\caches\\8.13\\transforms\\7c561c98095baa5c6574b957349839cb\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

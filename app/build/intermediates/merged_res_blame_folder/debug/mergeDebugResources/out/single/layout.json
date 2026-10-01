@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_producto_emprendedor.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_emprendedor.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_detalle_producto.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_detalle_producto.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_chat_derecha.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_chat_derecha.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_carrito.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_carrito.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_home_emprendedor.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_home_emprendedor.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_producto_relacionado.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_relacionado.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_chat_izquierda.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_chat_izquierda.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_home_cliente.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_home_cliente.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_register.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_conversaciones.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_conversaciones.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_producto_cliente.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_cliente.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_chat.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/dialog_agregar_producto.xml",
+        "source": "com.azueromarket.app-main-40:/layout/dialog_agregar_producto.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/item_conversacion.xml",
+        "source": "com.azueromarket.app-main-40:/layout/item_conversacion.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-mergeDebugResources-37:/layout/activity_carrito.xml",
+        "source": "com.azueromarket.app-main-40:/layout/activity_carrito.xml"
+    }
+]

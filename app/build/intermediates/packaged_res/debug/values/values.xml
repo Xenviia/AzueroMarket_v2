@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_light">#F1F8E9</color>
+    <color name="accent_orange">#E65100</color>
+    <color name="accent_orange_light">#FF8F00</color>
+    <color name="background_cream">#FAFAF7</color>
+    <color name="black">#FF000000</color>
+    <color name="bottom_nav_selected">#2E7D32</color>
+    <color name="bottom_nav_unselected">#9E9E9E</color>
+    <color name="chip_green_bg">#E8F5E9</color>
+    <color name="error_red">#C62828</color>
+    <color name="primary_green">#2E7D32</color>
+    <color name="primary_green_dark">#1B5E20</color>
+    <color name="primary_green_light">#4CAF50</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_alpha">#CCFFFFFF</color>
+    <color name="white_alpha_card">#33FFFFFF</color>
+    <string name="app_name">AzueroMarket</string>
+    <string name="logout">Cerrar Sesión</string>
+    <style name="Theme.AzueroMarket" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorSecondaryVariant">@color/accent_orange_light</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary_green_dark</item>
+        <item name="android:windowBackground">@color/background_cream</item>
+    </style>
+</resources>

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_ic_cart.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_conversaciones.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_conversaciones.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_badge_rojo.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_badge_rojo.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/menu_menu_home.xml.flat",
+        "source": "com.azueromarket.app-main-40:/menu/menu_home.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_badge_naranja.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_badge_naranja.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_message_me.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_message_me.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_chat.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_carrito.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_carrito.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_chat_derecha.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_chat_derecha.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/color_selector_bottom_nav.xml.flat",
+        "source": "com.azueromarket.app-main-40:/color/selector_bottom_nav.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_producto_relacionado.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_relacionado.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_producto_emprendedor.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_emprendedor.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_chat_izquierda.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_chat_izquierda.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_dialog_agregar_producto.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/dialog_agregar_producto.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_carrito.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_carrito.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_ic_store.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/ic_store.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_detalle_producto.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_detalle_producto.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_home_emprendedor.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_home_emprendedor.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_spinner_background.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/menu_menu_bottom_cliente.xml.flat",
+        "source": "com.azueromarket.app-main-40:/menu/menu_bottom_cliente.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_circle_green.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_circle_green.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/menu_menu_bottom_emprendedor.xml.flat",
+        "source": "com.azueromarket.app-main-40:/menu/menu_bottom_emprendedor.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_ic_chat.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_home_cliente.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_home_cliente.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_circle_green_light.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_circle_green_light.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_activity_register.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_message_other.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_message_other.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_bg_badge_verde.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/bg_badge_verde.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_producto_cliente.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_producto_cliente.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/layout_item_conversacion.xml.flat",
+        "source": "com.azueromarket.app-main-40:/layout/item_conversacion.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.azueromarket.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azueromarket.app-debug-38:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.azueromarket.app-main-40:/mipmap-xxhdpi/ic_launcher_round.xml"
+    }
+]
